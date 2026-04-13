@@ -2,4 +2,4 @@ let percorreu = 300
 let consome = 25
 
 let mediadocarro =(percorreu / consome);
-so
+console.log('consume media por litro:',mediadocarro)
